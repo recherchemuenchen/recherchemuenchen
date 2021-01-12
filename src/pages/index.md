@@ -22,7 +22,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Was wir machen
-    subtitle: An optional subtitle of the section
+    subtitle: und wo wir hinwollen
     col_number: two
     is_numbered: true
     grid_items:
