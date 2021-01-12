@@ -33,7 +33,9 @@ sections:
       - title: Recherchieren
         content: >
           Nicht alles was im Internet steht ist war und manchmal muss tief
-          nachgehakt werden. 
+          nachgehakt werden. Leider gehen diese Tätigkeiten in den lokalen
+          Medien immer mehr verloren und nicht jedes Thema ist für die großen
+          Investigativportale relevant genug. 
       - title: Illustrieren
         content: >
           Nachrichten müssen nicht immer langweilig sein. Wir bringen sie auch
