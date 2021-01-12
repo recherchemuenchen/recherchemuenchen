@@ -30,7 +30,7 @@ sections:
         content: >
           Unser Ziel ist es komplexe Sachverhalte zu erklären. Und zwar bei
           Themen, die vor allem junge Menschen was angehen
-      - title: Service Title
+      - title: Recherchieren
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
