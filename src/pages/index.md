@@ -31,10 +31,9 @@ sections:
           Unser Ziel ist es komplexe Sachverhalte zu erklären. Und zwar bei
           Themen, die vor allem junge Menschen was angehen
       - title: Recherchieren
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          Nicht alles was im Internet steht ist war und manchmal muss tief
+          nachgehakt werden. 
       - title: Illustrieren
         content: >
           Nachrichten müssen nicht immer langweilig sein. Wir bringen sie auch
