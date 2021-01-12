@@ -27,10 +27,9 @@ sections:
     is_numbered: true
     grid_items:
       - title: Erklären
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Unser Ziel ist es komplexe Sachverhalte zu erklären. Und zwar bei
+          Themen, die vor allem junge Menschen was angehen
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
