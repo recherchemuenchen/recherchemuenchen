@@ -41,9 +41,8 @@ sections:
           Nachrichten müssen nicht immer langweilig sein. Wir bringen sie auch
           in Form von Memes zu euch
       - title: Motivieren
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: |
+          Denn Engagement braucht Unterstützer
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
