@@ -35,7 +35,7 @@ sections:
           Nicht alles was im Internet steht ist war und manchmal muss tief
           nachgehakt werden. Leider gehen diese Tätigkeiten in den lokalen
           Medien immer mehr verloren und nicht jedes Thema ist für die großen
-          Investigativportale relevant genug. 
+          Investigativportale relevant genug. Dann kommen wir ins Spiel
       - title: Illustrieren
         content: >
           Nachrichten müssen nicht immer langweilig sein. Wir bringen sie auch
