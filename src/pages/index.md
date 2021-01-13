@@ -21,7 +21,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: Was wir machen
+    title: Meine Ziele
     subtitle: und wo wir hinwollen
     col_number: two
     is_numbered: true
