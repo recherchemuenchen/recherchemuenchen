@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, ich bin Renan'
     content: |
-      Ein junger Blogger und vielleicht auch Poltiker aus München
+      Ein junger Blogger und vielleicht auch Politiker aus München
     actions:
       - label: Let's talk
         url: /contact
