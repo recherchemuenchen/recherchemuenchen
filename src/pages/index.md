@@ -22,7 +22,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Meine Ziele
-    subtitle: und wo wir hinwollen
+    subtitle: und was ich erreichen möchte
     col_number: two
     is_numbered: true
     grid_items:
