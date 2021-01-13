@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, ich bin Renan'
     content: |
-      Ein junges journalistisches Recherchekollektiv aus München. 
+      Ein junger Blogger und vielleicht auch Poltiker aus München
     actions:
       - label: Let's talk
         url: /contact
